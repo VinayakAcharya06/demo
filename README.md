@@ -1,3 +1,3 @@
 # demo
 The first repository
-vinayak Acharya 
+Vinayak Acharya 
